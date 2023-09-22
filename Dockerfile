@@ -1,5 +1,5 @@
 # Dockerfile
-FROM wordpress:php8.1-apache
+FROM wordpress:php7.3-apache
 
 ARG PLUGIN_NAME=wordpress-tdd-plugin
 
