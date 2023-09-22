@@ -1,1 +1,1 @@
-{"version":1,"defects":[],"times":{"TestSample::test_sample":0.03}}
+{"version":1,"defects":{"TestSample::test_tdd_shortcode":3},"times":{"TestSample::test_sample":0.034,"TestSample::test_shortcode":0.003,"TestSample::test_tdd_shortcode":0.034}}
